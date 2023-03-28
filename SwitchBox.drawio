@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T14:14:39.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="sP2HC0RMivKAQGGDeR6Q" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T16:44:09.030Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="dwucpLE7nB1alt829t5z" version="21.1.1" type="github">
   <diagram name="Страница 1" id="GMvIVAxOlFMNgnBswhOr">
     <mxGraphModel dx="1138" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="2vmeMcMYZhxoyW6QbUdL-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="150" y="650" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2vmeMcMYZhxoyW6QbUdL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="440" width="80" height="240" as="geometry" />
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-9" value="Реле напряжения&lt;br&gt;Новатек-Электро&lt;br&gt;РН-163Т «Volt Control» 63А" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5hRmY-BtmMJLrfZp9TTn-1" value="1&lt;br&gt;1&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="20" height="120" as="geometry" />
@@ -150,6 +150,15 @@
         </mxCell>
         <mxCell id="N0oFKr2moulXzAQWh6da-35" value="4&lt;br&gt;5&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="50" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="N0oFKr2moulXzAQWh6da-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0oFKr2moulXzAQWh6da-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N0oFKr2moulXzAQWh6da-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="650" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
