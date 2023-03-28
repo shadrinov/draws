@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T16:45:37.183Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="ZXe03RZ2SV0HSnEq7LeF" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T17:21:22.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="AGo9qFto83I1bpSHwKo6" version="21.1.1" type="github">
   <diagram name="Страница 1" id="GMvIVAxOlFMNgnBswhOr">
     <mxGraphModel dx="1138" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2vmeMcMYZhxoyW6QbUdL-4" value="Вводной автомат&lt;br&gt;IEK&lt;br&gt;ВА47-29 2Р&lt;br&gt;B50" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-4" value="Вводной автомат&lt;br&gt;IEK&lt;br&gt;ВА47-29 2Р&lt;br&gt;B50&lt;br&gt;&lt;br&gt;ABB S202 2P (C) 6кА 50 А" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="80" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2vmeMcMYZhxoyW6QbUdL-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
