@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-03-28T11:00:47.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="nNpA_MhS2k0_OoeouJl_" version="21.1.1" type="device">
+  <diagram name="Страница 1" id="GMvIVAxOlFMNgnBswhOr">
+    <mxGraphModel dx="576" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-4" value="Вводной автомат&lt;br&gt;IEK&lt;br&gt;ВА47-29 2Р&lt;br&gt;B50" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="440" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="70" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="150" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="70" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="150" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2vmeMcMYZhxoyW6QbUdL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRmY-BtmMJLrfZp9TTn-1" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRmY-BtmMJLrfZp9TTn-3" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRmY-BtmMJLrfZp9TTn-4" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5hRmY-BtmMJLrfZp9TTn-5" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="20" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
