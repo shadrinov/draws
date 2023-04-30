@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T13:51:27.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="4i9USYUkm6OVWmxYiYYf" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T14:10:53.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="fPi4J1krmY4MQydCt372" version="21.2.3" type="github">
   <diagram name="Страница 1" id="GMvIVAxOlFMNgnBswhOr">
-    <mxGraphModel dx="1183" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1183" dy="959" grid="1" gridSize="17.7165" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,10 +143,10 @@
           <mxGeometry x="10" y="1080" width="1020" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wkO30YPk-ZB2-EVH_7Kl-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="120" width="1020" height="80" as="geometry" />
+          <mxGeometry x="17.72" y="141.73" width="1045.27" height="70.87" as="geometry" />
         </mxCell>
         <mxCell id="wkO30YPk-ZB2-EVH_7Kl-59" value="WirenBoard 7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="240" height="240" as="geometry" />
+          <mxGeometry x="70" y="35.43" width="426.06" height="283.47" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="760" width="1020" height="80" as="geometry" />
@@ -602,7 +602,7 @@
           <mxGeometry x="21" y="220" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-62" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="280" y="40" width="120.75" height="240" as="geometry" />
+          <mxGeometry x="513.78" y="40" width="120.75" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-27" value="WirenBoard&lt;br&gt;WB-MR6C v.3&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-62" vertex="1">
           <mxGeometry width="120.75" height="240" as="geometry" />
@@ -659,7 +659,7 @@
           <mxGeometry x="104.75" y="10" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-63" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="400.75" y="40" width="120" height="240" as="geometry" />
+          <mxGeometry x="634.53" y="40" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-45" value="WirenBoard&lt;br&gt;WB-MR6C v.3&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-63" vertex="1">
           <mxGeometry width="120" height="240" as="geometry" />
@@ -716,7 +716,7 @@
           <mxGeometry x="104" y="10" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-65" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="520.25" y="40" width="120" height="240" as="geometry" />
+          <mxGeometry x="754.03" y="40" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-63" value="WirenBoard&lt;br&gt;WB-MR6C v.3&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-65" vertex="1">
           <mxGeometry width="120" height="240" as="geometry" />
@@ -1508,7 +1508,7 @@
           <mxGeometry x="943.5" y="930" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="I4WWPxNIikKEbt4JskRp-80" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="640" y="40" width="120" height="240" as="geometry" />
+          <mxGeometry x="873.78" y="40" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-1" value="WirenBoard&lt;br&gt;WB-MWAC&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="I4WWPxNIikKEbt4JskRp-80" vertex="1">
           <mxGeometry width="120" height="240" as="geometry" />
