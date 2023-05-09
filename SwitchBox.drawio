@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T15:29:05.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="rMLyJ2bh8WKJe19wEoOU" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T17:19:56.723Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="J1tstwuGMYaYtnfaTafJ" version="21.2.9" type="github">
   <diagram name="Страница 1" id="GMvIVAxOlFMNgnBswhOr">
     <mxGraphModel dx="2504" dy="2046" grid="1" gridSize="17.7165" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="22.145833333333332" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="wkO30YPk-ZB2-EVH_7Kl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="17.72" y="2338" width="1435.03" height="70.86" as="geometry" />
+          <mxGeometry x="17.72" y="2338" width="1523.62" height="70.86" as="geometry" />
         </mxCell>
         <mxCell id="RqG4AOZZVtZ1jqkXJKte-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="17.72" y="1842.52" width="1523.62" height="70.86" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="17.72" y="1417.32" width="1523.62" height="70.87" as="geometry" />
         </mxCell>
         <mxCell id="wkO30YPk-ZB2-EVH_7Kl-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="17.72" y="141.73" width="1470.47" height="70.87" as="geometry" />
+          <mxGeometry x="17.72" y="141.73" width="1523.62" height="70.87" as="geometry" />
         </mxCell>
         <mxCell id="wkO30YPk-ZB2-EVH_7Kl-59" value="WirenBoard 7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="35.43" width="426.06" height="283.47" as="geometry" />
