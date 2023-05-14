@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T13:02:57.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="lcD3H8OCW1HbpunmBifm" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T13:17:09.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="K0Lcl5NbaHrvf-QRqb_V" version="21.3.0" type="github">
   <diagram name="Страница 1" id="GMvIVAxOlFMNgnBswhOr">
     <mxGraphModel dx="2504" dy="2046" grid="1" gridSize="17.7165" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CFfM0_zvOVKjtr0gn3He-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176.3" y="1133.85" width="2002.83" height="70.86" as="geometry" />
+          <mxGeometry x="177.16" y="1133.85" width="1984.25" height="70.86" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-33" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1081.3400000000001" y="992.1200000000002" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="1063.6200000000001" y="992.1200000000002" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-34" value="WirenBoard&lt;br&gt;WB-MRPS6/S&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-33" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -89,13 +89,13 @@
           <mxGeometry x="177.16000000000003" y="3259.83" width="2002.83" height="70.87" as="geometry" />
         </mxCell>
         <mxCell id="wkO30YPk-ZB2-EVH_7Kl-59" value="WirenBoard 7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="214.95" y="3118.1" width="426.06" height="354.33" as="geometry" />
+          <mxGeometry x="708.66" y="3118.13" width="426.06" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-212" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="177.16" y="1842.51" width="2001.97" height="70.87" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-10" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1207.9400000000003" y="1700.78" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="1275.5800000000002" y="992.12" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-355" value="WirenBoard&lt;br&gt;WB-MRPS6/S&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-10" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="22.145833333333336" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-11" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1420.5400000000002" y="1700.78" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="1488.18" y="992.12" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-12" value="WirenBoard&lt;br&gt;WB-MRPS6/S&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-11" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -479,7 +479,7 @@
           <mxGeometry x="38.094125" y="318.88833333333326" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-62" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="641.01" y="3118.1" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="1133.85" y="3118.12" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-27" value="WirenBoard&lt;br&gt;WB-MR6C v.3&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-62" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -536,7 +536,7 @@
           <mxGeometry x="184.42939958592132" y="11.811250000000001" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-63" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="853.6099999999999" y="3118.1" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="1346.4499999999996" y="3118.12" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-45" value="WirenBoard&lt;br&gt;WB-MR6C v.3&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-63" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -593,7 +593,7 @@
           <mxGeometry x="184.25333333333336" y="11.81125" width="8.461271274748176" height="8.461271274748176" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-65" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1066.21" y="3118.1" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="1559.05" y="3118.12" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-63" value="WirenBoard&lt;br&gt;WB-MR6C v.3&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-65" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -698,7 +698,7 @@
           <mxGeometry x="105" y="220" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-68" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1293.94" y="992.12" width="212.59" height="354.33" as="geometry" />
+          <mxGeometry x="1488.1900000000003" y="2409.44" width="212.59" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-131" value="WirenBoard&lt;br&gt;WB-MRWM2&lt;br&gt;7" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-68" vertex="1">
           <mxGeometry width="212.59" height="354.33" as="geometry" />
@@ -731,7 +731,7 @@
           <mxGeometry x="8.857916666666668" y="11.810833333333331" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-69" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1278.8100000000002" y="2409.4399999999996" width="212.59" height="354.33" as="geometry" />
+          <mxGeometry x="1275.5900000000001" y="2409.4399999999996" width="212.59" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-121" value="WirenBoard&lt;br&gt;WB-MRWM2&lt;br&gt;6" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-69" vertex="1">
           <mxGeometry width="212.59" height="354.33" as="geometry" />
@@ -764,7 +764,7 @@
           <mxGeometry x="8.857916666666668" y="11.810833333333331" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-70" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1066.21" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="1062.99" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-111" value="WirenBoard&lt;br&gt;WB-MRWM2&lt;br&gt;5" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-70" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -797,7 +797,7 @@
           <mxGeometry x="8.858333333333334" y="11.810833333333331" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-71" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="853.6099999999999" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="850.3899999999999" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-101" value="WirenBoard&lt;br&gt;WB-MRWM2&lt;br&gt;4" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-71" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -830,7 +830,7 @@
           <mxGeometry x="8.858333333333334" y="11.810833333333333" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-72" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="641.01" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="637.79" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-91" value="WirenBoard&lt;br&gt;WB-MRWM2&lt;br&gt;3" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-72" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -863,7 +863,7 @@
           <mxGeometry x="8.858333333333333" y="11.810833333333333" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-73" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="428.40999999999997" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
+          <mxGeometry x="425.2" y="2409.4399999999996" width="212.6" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-81" value="WirenBoard&lt;br&gt;WB-MRWM2&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-73" vertex="1">
           <mxGeometry width="212.6" height="354.33" as="geometry" />
@@ -896,7 +896,7 @@
           <mxGeometry x="8.858333333333333" y="11.810833333333333" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pDzd1rv9vfsY6BFtjBUu-74" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="215.82" y="2409.4399999999996" width="212.59" height="354.33" as="geometry" />
+          <mxGeometry x="212.35999999999999" y="2409.4399999999996" width="212.59" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="wkO30YPk-ZB2-EVH_7Kl-75" value="WirenBoard&lt;br&gt;WB-MRWM2&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="pDzd1rv9vfsY6BFtjBUu-74" vertex="1">
           <mxGeometry width="212.59" height="354.33" as="geometry" />
@@ -1280,7 +1280,7 @@
           <mxGeometry x="6" y="210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="I4WWPxNIikKEbt4JskRp-80" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1278.8100000000002" y="3118.1" width="212.59" height="354.33" as="geometry" />
+          <mxGeometry x="1771.6499999999999" y="3118.12" width="212.59" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="Dtsd7MYRWH5dnzTgWTRM-1" value="WirenBoard&lt;br&gt;WB-MWAC&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;" parent="I4WWPxNIikKEbt4JskRp-80" vertex="1">
           <mxGeometry width="212.59" height="354.33" as="geometry" />
@@ -1343,10 +1343,10 @@
           <mxGeometry x="184.6875625" y="47.245" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="CFfM0_zvOVKjtr0gn3He-2" value="Meanwell&lt;br&gt;HDR-150-24" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230.07999999999993" y="992.12" width="426.06" height="354.33" as="geometry" />
+          <mxGeometry x="212.35999999999993" y="992.12" width="426.06" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="CFfM0_zvOVKjtr0gn3He-81" value="Meanwell&lt;br&gt;HDR-150-24" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="656.1399999999999" y="992.12" width="425.2" height="354.33" as="geometry" />
+          <mxGeometry x="638.4199999999998" y="992.12" width="425.2" height="354.33" as="geometry" />
         </mxCell>
         <mxCell id="aPTi4Jsd7HVTxWDgupQd-1" value="2" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="234.56239999999997" y="3826.7623999999996" width="20.47" height="407.48" as="geometry" />
@@ -1542,6 +1542,24 @@
             <mxPoint x="163.63899999999995" y="3738.179" as="sourcePoint" />
             <mxPoint x="2211.6390000000006" y="3738.179" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p6fxoSX-zydVa2QLVcuc-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="212.59649999999976" y="3118.1065" width="212.6" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="p6fxoSX-zydVa2QLVcuc-19" value="Mornsun&lt;br&gt;LI60-20B24PR2&lt;br&gt;24V 2500mA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p6fxoSX-zydVa2QLVcuc-18">
+          <mxGeometry width="212.6" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="p6fxoSX-zydVa2QLVcuc-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="425.2" y="3118.1" width="141.73" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="p6fxoSX-zydVa2QLVcuc-38" value="WirenBoard&lt;br&gt;WB-UPS v.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p6fxoSX-zydVa2QLVcuc-37">
+          <mxGeometry width="141.73" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="p6fxoSX-zydVa2QLVcuc-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="566.9265" y="3118.1165" width="141.73" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="p6fxoSX-zydVa2QLVcuc-40" value="WirenBoard&lt;br&gt;WB-UPS v.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p6fxoSX-zydVa2QLVcuc-39">
+          <mxGeometry width="141.73" height="354.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
